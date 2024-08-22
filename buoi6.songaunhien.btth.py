@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 20 19:42:03 2024
 
-@author: MINH NHUT
+@author: Thoai
 """
 
 import random
